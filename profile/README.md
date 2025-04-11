@@ -1,10 +1,10 @@
-## Welcome to Seal 💫
+## Welcome to Nissi 💫
 
-Seal is an app that turns any asset into a token on the blockchain, quickly and easily. From art, memberships and products to real estate, bonds, stocks, securities and experiences, Seal makes tokenization accessible to everyone.
+Nissi is an app that turns any asset into a token on the blockchain, quickly and easily. From art, memberships and products to real estate, bonds, stocks, securities and experiences, Seal makes tokenization accessible to everyone.
 
 - Docs: see our [documentation](https://www.google.com/) for more details on how to start contributing.
 
-- Resources: check out our [official website](https://seal-rwa.vercel.app/), you will find detailed information about our services and supported products. We are also active on social media, so be sure to follow us on [Twitter](https://twitter.com/) for the latest updates and news.
+- Resources: check out our [official website](https://nissi-dev-app.vercel.app/), you will find detailed information about our services and supported products. We are also active on social media, so be sure to follow us on [Twitter](https://twitter.com/) for the latest updates and news.
 
 - Fun facts: did you know that tokenization is changing the way entrepreneurs in the world finance their projects? They can now split the ownership of their businesses into digital tokens, allowing investors from all over the world to participate in startups, real estate and even cultural projects. The future of investment is here! 🚀
 
