@@ -16,5 +16,7 @@ Building in public ❤️!
 <a href="https://t.me/user" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/telegram/telegram-icon.svg" alt="Telegram user" height="30" width="30" /></a>
 <a href="https://medium.com/@user" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Medium @user" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/user" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="YouTube @user" height="30" width="30" /></a>
-<a href="https://open.spotify.com/show/1VNEm3s86Kq1L9htrAqNKt" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify @user" height="30" width="30" /></a>
+<a href="https://open.spotify.com/show/user" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Spotify @user" height="30" width="30" /></a>
 </p>
+
+https://open.spotify.com/artist/2YI3W3u3yU7jU1fENAZOOO
